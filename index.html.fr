@@ -60,7 +60,7 @@
         Ce document est simplement un document interne au W3C. Il n'a aucun statut officiel d'aucune sorte et ne représente pas le consensus des membres du W3C.
       </p>
 	Ceci est une proposition non officielle. Se reporter au <a href=
-        "https://www.w3.org/Consortium/cepc/">Code d'Éthique et de Conduite Professionnelle</a> for the operational version.
+        "https://www.w3.org/Consortium/cepc/">Code d'Éthique et de Conduite Professionnelle</a> pour la version opérationnelle.
       </p>
     </section>
     <section id="introduction">
@@ -68,43 +68,36 @@
         Introduction
       </h2>
       <p>
-        W3C is a growing and global community where <a>participants</a> choose
-        to work together. W3C is committed to maintaining a positive working
-        environment, where each participant feels appreciated and respected and
-        where everyone adheres to the same high level of standards of personal
-        behavior. In that process we experience differences in language,
-        location, nationality, and experience. In such a diverse environment,
-        misunderstandings and disagreements happen, which in most cases can be
-        resolved informally.
+        Le W3C est une communauté mondiale croissante et où les <a>participants</a> choisissent de travailler ensemble. Le W3C s'engage à maintenir un environnement de travail positif, où chaque participant se sent apprécié et respecté et où chacun adhère aux mêmes normes élevées de comportement personnel. Nous y faisons l'expérience de différences de langue, de lieu, de nationalité et d'expérience. Dans un environnement aussi diversifié, des malentendus et des désaccords se produisent, qui dans la plupart des cas peuvent être résolus de manière informelle.
       </p>
             <p>
-        W3C's <cite>Code of Ethics and Professional Conduct</cite>
-        (<abbr title="Code of Ethics and Professional Conduct">CEPC</abbr>) is
-        useful to define accepted and <a>acceptable behaviors</a> and to
-        promote high standards of professional practice. The goal of this code
-        of conduct is to ensure that W3C is an environment where everyone can
-        participate without fear of <a>harassment</a>. It also provides a
-        benchmark for self evaluation and acts as a vehicle for better identity
-        of the organization.
+        Le <cite>Code d'Éthique et de Conduite Professionnelle</cite> du W3C
+        (<abbr title="Code d'Éthique et de Conduite Professionnelle">CECP</abbr>) est
+        utile pour définir les comportements acceptés et acceptables et promeut des standards élevés en matière
+        de pratique professionnelle. L'objectif de ce code de conduite
+        est de faire en sorte que le W3C ait un environnement où chacun puisse
+        participer sans crainte de <a>harcèlement</a>. Il fournit également 
+	une référence pour l'auto-évaluation et agit en tant que véhicule pour 
+	une meilleure identité de l'organisation.
       </p>
       <p>
-        The CEPC is complemented by a set of <a href=
-        "https://www.w3.org/Consortium/pwe/#Procedures">Procedures</a>, applies
-        to any member of the W3C community – staff, members, invited experts,
-        and <a>participants</a> in W3C meetings, W3C teleconferences, W3C
-        mailing lists, code repositories, W3C conferences or W3C functions, etc.
-        Note that this code complements rather than replaces legal rights and
-        obligations pertaining to any particular situation.
+        Le CECP, complémenté par un ensemble de <a hreflang="en" href=
+        "https://www.w3.org/Consortium/pwe/#Procedures">Procédures</a>, s'applique 
+        à tout membre de la communauté du W3C – personnel, membres, experts invités,
+        et <a>participants</a> dans les réunions W3C, téléconferences W3C, 
+        listes de diffusion W3C, référentils de code, conférences W3C ou réception W3C, etc.
+        Notez que ce code complète plutôt qu'il ne remplace les droits et obligations 
+	juridiques relatifs à toute situation particulière.
       </p>
       <p>
-        <a href="https://www.w3.org/Consortium/pwe/#Education">Education and training
-        materials</a> are available from the <a href=
-        "https://www.w3.org/Consortium/pwe/">Positive Work Environment public homepage</a>.
+        <a hrelang="en" href="https://www.w3.org/Consortium/pwe/#Education">Des documents d'Éducation 
+	et de formation</a> sont disponibles depuis la <a hreflang="en" href=
+        "https://www.w3.org/Consortium/pwe/">page d'accueil publique de l'environnement de travail positif</a>.
       </p>
     </section>
     <section>
       <h2>
-        Statement of Intent
+        Déclaration d'intention
       </h2>
       <p>
         W3C is committed to maintaining a <strong>positive</strong> work
