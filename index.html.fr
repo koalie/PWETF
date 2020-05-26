@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="utf-8">
     <title>
-      Positive Work Environment at W3C: Code of Ethics and Professional Conduct
+      Environnement de Travail Positif au W3C : Code d'Éthique et de Conduite Professionnelle
     </title>
     <script src="https://www.w3.org/Tools/respec/respec-w3c" class="remove"
     defer="defer"></script>
@@ -38,29 +38,29 @@
   <body>
     <section id="abstract">
       <p>
-        W3C's <cite>Code of Ethics and Professional Conduct</cite> defines
-        accepted and acceptable behaviors and promotes high standards of
-        professional practice. The goals of this code are to:
+        Le <cite>Code d'Éthique et de Conduite Professionnelle</cite> du W3C définit
+        les comportements acceptés et acceptables et promeut des standards élevés en matière
+        de pratique professionnelle. Les objectifs de ce code sont les suivants :
       </p>
       <ul>
-        <li>Define acceptable and expected standards of behavior.
+        <li>Définir les comportements acceptés et acceptables.
         </li>
-        <li>Provide a benchmark.
+        <li>Fournir une référence.
         </li>
-        <li>Ensure transparency in community and group management.
+        <li>Assurer la transparence dans la gestion de la communauté et du groupe.
         </li>
-        <li>Ensure an environment where people can participate without fear of
-        harassment.
+        <li>Assurer un environnement où les gens peuvent participer sans crainte de harcèlement.
         </li>
-        <li>Contribute to the identity of the organization.
+        <li>Contribuer à l'identité de l'organisation.
         </li>
       </ul>
     </section>
     <section id="sotd">
       <p>
-        This is an unofficial proposal. Refer to <a href=
-        "https://www.w3.org/Consortium/cepc/">Code of Ethics and Professional
-        Conduct</a> for the operational version.
+        Ce document est simplement un document interne au W3C. Il n'a aucun statut officiel d'aucune sorte et ne représente pas le consensus des membres du W3C.
+      </p>
+	Ceci est une proposition non officielle. Se reporter au <a href=
+        "https://www.w3.org/Consortium/cepc/">Code d'Éthique et de Conduite Professionnelle</a> for the operational version.
       </p>
     </section>
     <section id="introduction">
