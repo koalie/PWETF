@@ -220,120 +220,124 @@
         </ul>
       </section>
       <section>
-        <h3 id="unacceptablebehavior">
-          Unacceptable Behavior
+        <h3 id="comportement-inacceptable">
+          Comportement inacceptable
         </h3>
         <p>
-          <dfn>Unacceptable behaviors</dfn> run counter to the Code
-          of Ethics and Professional Conduct. This list of <a>unacceptable
-          behaviors</a> does not cover every case. Each person you interact
-          with is unique, and behavior must be assessed on an individual level.
-          Ensuring that your behavior does not have a negative impact is your
-          responsibility. W3C strictly prohibits <a>discrimination</a>,
-          intimidation, <a>harassment</a>, and <a>bullying</a> of any kind and
-          on any basis.
+          Les <dfn>comportements inacceptables</dfn> vont à l'encontre du 
+	  Code d'Éthique et de Conduite Professionnelle. Cette liste de <a>comportements 
+	  inacceptables</a> ne couvre pas tous les cas. Tous ceux avec qui 
+	  vous interagissez sont uniques, et votre comportement doit être évalué 
+	  au niveau individuel. Il est de votre responsabilité de vous assurer 
+	  que votre comportement n'a pas d'impact négatif. Le W3C interdit 
+	  strictement la <a>discrimination</a>, l'intimidation, le <a>harcèlement</a>, et 
+	  les <a>brimades</a> de toute nature et à tous niveaux.
         </p>
         <p>
-          <a>Unacceptable behaviors</a> include, but are not limited to:
+          Les <a>comportements inacceptables</a> comprennent, sans s'y limiter:
         </p>
         <ul>
-          <li>Offensive comments related to gender, <a>gender identity</a> and
-          <a>gender expression</a>, sexual orientation, disability (both
-          visible and invisible), mental health, <a>neurotype</a>, physical
-          appearance, body, age, race, socio-economic status, ethnicity,
-          nationality, language, or religion
+          <li>Les commentaires offensants liés au genre, l'<a>identité de genre</a> et 
+	  l'<a>expression de genre</a>, l'orientation sexuelle, le handicap (visible et 
+	  invisible), la santé mentale, le <a>neurotype</a>, l'apparence physique, 
+	  le corps, l'âge, la race, le statut socio-économique, l'origine 
+	  ethnique, la nationalité, la langue ou la religion.
           </li>
-          <li>Unwelcome comments regarding a person’s lifestyle choices and
-          practices, including those related to food, health, parenting, drugs,
-          and employment
+          <li>Les commentaires indésirables concernant les choix et les pratiques 
+	  de vie d'une personne, y compris ceux liés à l'alimentation, à la santé, 
+	  à la parentalité, à la drogue et à l'emploi.
           </li>
           <li>
-            <a>Misgendering</a> someone by deliberately referring to a person
-            using the wrong pronouns or by using someone's proper names or
-            other terms that person has asked not to be used, also known as
-            <a>deadnaming</a>.
+            <a>Mégenrer</a> quelqu'un en se référant délibérément à une personne 
+	    en utilisant les mauvais pronoms ou en utilisant le nom propre de 
+	    quelqu'un ou d'autres termes que cette personne a demandé de ne pas 
+	    utiliser, aussi appelé <a>morinommage</a>.
           </li>
-          <li>Gratuitous or off-topic sexual images or behavior in spaces where
-          they are not appropriate.
+          <li>Images ou comportements sexuels gratuits ou hors sujet dans des 
+	  espaces où ils ne sont pas appropriés.
           </li>
-          <li>Physical contact and simulated physical contact (e.g., textual
-          descriptions like “hug” or “backrub”) without <a>consent</a> or after
-          a request to stop.
+          <li>Le contact physique et le contact physique simulé (par exemple, 
+	  les descriptions textuelles comme « câlin » ou « massage du dos ») sans 
+	  le <a>consentement</a> ou après une demande d'arrêt.
           </li>
-          <li>Threats of violence.
+          <li>Menaces de violence.
           </li>
-          <li>Incitement of violence towards any individual, including
-          encouraging a person to commit suicide or to engage in self-harm.
+          <li>Incitation à la violence envers quiconque, y compris encourage 
+	  quelqu'un à se suicider ou à s'automutiler.
           </li>
-          <li>Deliberate intimidation.
+          <li>Intimidation délibérée.
           </li>
-          <li>Stalking or physically following or invading someone's personal space after a request to stop.</li>
-		<li>Exposing others to contagious disease.</lI>
-		  
-		<li>
-            <a>Harassing</a> photography or recording, including logging online
-            activity for <a>harassment</a> purposes.
+          <li>Traquer ou suivre physiquement ou envahir l'espace personnel de 
+	  quelqu'un après une demande d'arrêt.</li>
+	  <li>Exposer autrui à une maladie contagieuse.</li>
+	  <li>Photographie ou enregistrements, y compris including d'activité en 
+	  ligne à des fins de <a>harcèlement</a>.
           </li>
-          <li>Sustained disruption of discussion.
+          <li>Perturbation durable de la discussion.
           </li>
-          <li>Unwelcome sexual attention.
+          <li>Attention sexuelle importune.
           </li>
-          <li>Patterns of inappropriate social contact, such as
-          requesting/assuming inappropriate levels of intimacy with others.
+          <li>Dispositions de contact social inapproprié, tel que demander / adopter
+	  des niveaux inappropriés d'intimité avec autrui.
           </li>
-          <li>Continued one-on-one communication after requests to cease.
+          <li>Poursuite de communications individuelles après des demandes 
+	  de cessation.
           </li>
-          <li>Deliberate outing of any aspect of a person’s <a>gender
-          identity</a> without their <a>consent</a>.
+          <li>Révelation délibérée de quelconque aspect de l'<a>identité de genre</a>
+	  d'une personne sans son <a>consentement</a>.
           </li>
-          <li>Publication of non-harassing private communication without
-          <a>consent</a> by the involved parties.
+          <li>Publication de communications privées non harcelantes sans le 
+	  <a>consentement</a> des parties concernées.
           </li>
-          <li>Use of coded language (also known as "dog whistles") used to
-          rally support for hate groups or to intimidate vulnerable groups.
+          <li>Utilisation d'un langage codé (appelé aussi « sifflets pour chiens ») 
+	  utilisé pour rallier le soutien aux groupes haineux ou pour intimider 
+	  les groupes vulnérables.
           </li>
-          <li>Microaggressions, which are small comments or questions, either
-          intentional or unintentional, that marginalize people by
-          communicating hostile, derogatory, or negative beliefs. Examples
-          include:
+          <li>Les microagressions, qui sont de petits commentaires ou questions, 
+	  intentionnelles ou non, qui marginalisent les gens en communiquant des 
+	  croyances hostiles, désobligeantes ou négatives. Voici quelques exemples:
             <ul>
-              <li>Patronizing language or behavior:
+              <li>Langage ou comportement condescendant :
                 <ul>
-                  <li>Be aware that, regardless of the speaker's intentions,
-                  some phrases or constructions lead people to expect a
-                  patronizing statement to follow, and avoid such phrases. For
-                  example, beginning an interjection with "Well, actually..."
-                  can set this expectation and be taken as a sign of
-                  disrespect.
+                  <li>Soyez conscient que, quelles que soient les intentions de 
+		  l'orateur, certaines phrases ou constructions amènent les gens 
+		  à s'attendre à une déclaration condescendante, et évitez de telles 
+		  phrases. Par exemple, commencer une interjection par « Eh bien, 
+		  en fait ... » peut susciter cette attente et être considéré comme 
+		  un signe d'irrespect.
                   </li>
-                  <li>Assuming without asking that particular people or groups
-                  need concepts defined or explained to them. It’s great to be
-                  sensitive to the fact that people may not be familiar with
-                  technical terms you use every day, but assuming that people
-                  are uninformed can come across as patronizing.
+                  <li>Supposer sans demander que des personnes ou des groupes 
+		  particuliers aient besoin que certains concepts soient définis
+		  ou leur soient expliqués. Il est très bien d'être sensible au fait 
+		  que les gens ne connaissent peut-être pas les termes techniques 
+		  que vous utilisez tous les jours, mais supposer que les gens ne 
+		  sont pas informés peut apparaître comme condescendant.
                   </li>
-                  <li>Assuming that particular groups of people are technically
-                  unskilled (e.g., “So easy your grandmother could do it”).
+                  <li>Supposer que certains groupes de personnes sont techniquement 
+		  non qualifiés (par exemple, « si facile votre grand-mère pourrait 
+		  le faire »).
                   </li>
                 </ul>
               </li>
-              <li>Repeatedly interrupting or talking over someone else.
+              <li>Systématiquement interrompre ou parler en même temps que 
+	      quelqu'un d'autre.
               </li>
-              <li>Feigning surprise at someone’s lack of knowledge or awareness
-              about a topic.
+              <li>Feindre la surprise face au manque de connaissances ou de conscience 
+	      de quelqu'un sur un sujet.
               </li>
-              <li>The use of racially charged language to describe an
-              individual or thing (such as “thug” or “ghetto”).
+              <li>Utiliser un langage à caractère racial pour décrire une personne 
+	      ou une chose (comme « voyou » ou « ghetto »).
               </li>
-              <li>Referring to an individual in a way that <a>demeans</a> or
-              challenges the validity of their racial identity.
+              <li>Faire référence à un individu d'une manière qui <a>avilit</a> ou 
+	      conteste la validité de son identité raciale. 
               </li>
-              <li>Mocking someone’s real or perceived accent or first language.
+              <li>Se moquer de l'accent réel ou perçu d'autrui ou de sa langue
+	      maternelle.
               </li>
             </ul>
           </li>
-          <li>Retaliating, or taking adverse action, against anyone who files a complaint that someone has
-          violated this code of conduct.
+          <li>Représailles, ou prise de mesures défavorables, contre toute personne 
+	  qui dépose une plainte pour violation de ce code de conduite.
           </li>
         </ul>
 	      <section><h4>Safety versus Comfort</h4>
