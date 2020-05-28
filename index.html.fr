@@ -100,11 +100,11 @@
         Déclaration d'intention
       </h2>
       <p>
-        W3C is committed to maintaining a <strong>positive</strong> work
-        environment. This commitment calls for a workplace where
-        <a>participants</a> at all levels behave according to the rules of the
-        following code. A foundational concept of this code is that <em>we all
-        share responsibility</em> for our work environment.
+        Le W3C s'engage à maintenir un environnement de travail <strong>positif</strong>. 
+	Cet engagement nécessite un lieu de travail où les <a>participants</a> à tous 
+	les niveaux se comportent selon les règles du code suivant. Un concept 
+	fondamental de ce code est que <em>nous partageons tous la responsabilité</em> 
+	de notre environnement de travail.	
       </p>
     </section>
     <section>
@@ -113,90 +113,109 @@
       </h2>
       <section>
         <h3>
-          Expected Behavior
+          Comportement attendu
         </h3>
 
         <p>
-          Treat each other with respect,
-          professionalism, fairness, and sensitivity to our many differences
-          and strengths, including in situations of high pressure and urgency.
+          Traitez-vous les uns les autres avec respect, professionnalisme, 
+	  équité et attention quant à nos nombreuses différences et forces, 
+	  y compris dans des situations de haute pression et d'urgence.
         </p>
         <ul>
-          <li>Appreciate and accommodate our similarities and differences. We
-          come from many cultures and backgrounds, ways of life, and standards
-          of behavior. Cultural differences can encompass everything from
-          official religious observances to personal habits to clothing. Be
-          respectful of people with different practices, attitudes, and
-          beliefs. To help us achieve and maintain these high standards, each
-          individual participant is expected to share responsibility for our
-          work environment by adhering to the behavioral guidelines herein.
+          <li>Appréciez et adaptez-vous nos similitudes et différences. Nous
+	  venons de nombreuses cultures et contextes, modes de vie, et
+	  standards de comportement. Les différences culturelles peuvent 
+	  aller des pratiques religieuses officielles aux habitudes personnelles,
+	  en passant par l'habillement. Soyez respectueux Soyez respectueux 
+	  des personnes ayant des pratiques, des attitudes et des croyances 
+	  différentes.
+          Pour nous aider à atteindre et à maintenir ces normes élevées, chaque 
+	  participant est censé partager la responsabilité de notre environnement 
+	  de travail en adhérant aux directives comportementales ci-incluses.
           </li>
-          <li>Have empathy when discussing sensitive issues. Some participants
-          may have experienced (or been subjected to) various forms of violence
-          in their lives, which may cause distress when they are reminded of
-          it. Avoid making jokes or callously mentioning sexual violence such
-          as stalking or sexual assault; in cases when the need arises to
-          discuss these issues and how they affect people - do so with tact and
-          empathy taking into account the gravity of the situation, and make
-          sure that <a>participants</a> are appropriately warned in advance so
-          they can choose to step out of these discussions.
+          <li>Faites preuve d'empathie lorsque vous discutez de questions 
+	  sensibles. Certains participants peuvent avoir vécu (ou subi) 
+	  diverses formes de violence dans leur vie, qui peuvent causer 
+	  de la détresse lorsqu'elles leur sont rappelées. Évitez de plaisanter
+	  ou des mentionner de façon inconsidérée toute violence sexuelle 
+	  telle que le harcèlement ou l'agression sexuelle ; dans les cas où 
+	  il est nécessaire d'aborder ces sujets et la façon dont ils affectent
+	  les gens, faites-le avec tact et empathie en tenant compte de la 
+	  gravité de la situation et assurez-vous que les <a>participants</a> soient 
+	  avertis à l'avance de manière appropriée afin qu'ils puissent choisir 
+	  de s'excuser de ces discussions.
           </li>
-          <li>Treat everyone with respect. We are a large community of people who are passionate
-          about our work, sometimes holding strong opinions and beliefs. We are
-          committed to dealing with each other with courtesy, respect, and
-          dignity at all times. Misunderstandings and disagreements do happen.
-          When conflicts arise, we are expected to resolve them maintaining
-          that courtesy, respect, and dignity, even when emotions are
-          heightened.
+          <li>Traitez tout le monde avec respect. Nous sommes une large 
+	  communauté  de gens passionnés par notre travail, ayant parfois 
+	  de fortes opinions et des convictions. Nous nous engageons à nous 
+	  traiter les uns avec les autres avec courtoisie, respect et dignité 
+	  à tout moment. Malentendus et désaccords se produisent. En cas de 
+	  conflit, nous sommes appelés à les résoudre en maintenant cette 
+	  courtoisie, ce respect et cette dignité, y compris lorsque les 
+	  émotions se trouvent exacerbées. 
           </li>
-          <li>Do not accept or engage in abusive behavior in any form, whether it is
-        verbal, physical, sexual, or implied.</li>
-          <li>Be honest. Be truthful, sincere, forthright and, unless professional duties require confidentiality or special discretion, candid, straightforward, and frank.</li>
-          <li>Be inclusive and promote <a>diversity</a>. Seek diverse
-          perspectives. Diversity of views and of people powers innovation,
-          even if it is not always comfortable. Encourage all voices. Help new
-          perspectives be heard and listen actively. If you find yourself
-          dominating a discussion, it is especially important to step back and
-          encourage other voices to join in. Provide alternative ways to
-          contribute.
+          <li>N'acceptez ni n'adoptez de comportement abusif sous quelque 
+	  forme, que ce soit verbal, physique, sexuel ou implicite.
+	  </li>
+          <li>Soyez honnête. Soyez honnête, sincère, franc et, à moins que 
+	  vos devoirs professionnels ne nécessitent la confidentialité ou 
+	  une discrétion particulière, sincère, simple et franc.</li>
+          <li>Soyez inclusif et faites la promotion de la <a>diversité</a>. 
+	  Recherez des perspectives diverses. La diversité de points de vue 
+	  et de personnes stimule l'innovation, même si elle n'est pas 
+	  toujours confortable. Encouragez toutes les voix. Aidez de 
+	  nouvelles perspectives à se faire entendre et écoutez activement.
+	  Si vous vous trouvez en train de dominer une discussion, il 
+	  est particulièrement important de prendre du recul et d'encourager 
+	  d'autres voix à se joindre à vous. Proposez d'autres moyens de 
+	  contribuer.
           </li>
-          <li>Be aware of how much time is taken up by dominant members of the
-          group.
+          <li>Soyez conscient du temps que prennent les membres dominants 
+	  du groupe.
           </li>
-          <li>Be aware that displays of affection may complicate professional
-          relationships. For some cultures, overtly friendly disposition
-          towards another participant involving body contact (e.g.: hugging,
-          touching on the arm or shoulder, or kissing) is uncommon and may be
-          perceived as an invasion of personal space, or as unwelcome advances.
+          <li>Soyez conscient que les démonstrations d'affection peuvent
+	  compliquer les relations professionelles. Dans certains cultures,
+	  la disposition ouvertement amicale envers un autre participant 
+	  impliquant un contact corporel (par exemple étreindre, toucher 
+	  le bras ou l'épaule, ou embrasser) est rare et peut être perçue 
+	  comme une invasion de l'espace personnel ou comme des avances
+	  indésirables.
           </li>
-          <li>Work to eliminate your own biases, prejudices, and discriminatory
-          practices.
+          <li>Œuvrez à l'élimination de vos propres préjugés, a priori et 
+	  pratiques discriminatoires.
           </li>
-          <li>Think of others’ needs from their point of view. Use preferred
-          names, titles (including pronouns), and the appropriate tone of
-          voice. Therefore, be formal and conservative in what you do and
-          liberal in what you accept from others and acknowledge the
-          contributions of your peers.
+          <li>Pensez aux besoins des autres de leur propre point de vue. 
+	  Utilisez les noms et titres préférés (y cmpris les pronoms), 
+	  ainsi qu'un ton de voix approprié. Ainsi, soyez formel et 
+	  conservateur dans ce que vous faites et libéral dans ce que 
+	  vous acceptez des autres et reconnaissez les contributions de 
+	  vos pairs.
           </li>
-		<li>Accommodate participants' needs for physical distancing and other accommodations or precautions due to health concerns such as immune deficiency, allergies, or chemical sensitivity.</li>
-          <li>Be sensitive to language differences. English is the default
-          language of the W3C. However, only some of us are native English
-          speakers. Many <a>participants</a> speak English as a second (or
-          third) language. People who communicate in non-native language often
-          struggle to understand fast and/or quiet speech and may speak louder
-          than they usually would when communicating in their native tongue. If
-          someone struggles to express their thoughts, help ensure their ideas
-          are adequately expressed, heard, and granted thorough consideration.
+	  <li>Répondez aux besoins des participants en matière de distance 
+	  physique et autres mesures d'adaptation ou précautions en raison 
+	  de problèmes de santé tels que déficience immunitaire, allergies 
+	  ou une sensibilité chimique.</li>
+          <li>Soyez sensible aux différences linguistiques. L'anglais est la 
+	  langue par défaut du W3C. Cependant, seuls certains d'entre nous 
+	  sont de langue maternelle anglaise. De nombreux <a>participants</a> 
+	  parlent l'anglais en temps que seconde (ou troisième) langue. Les 
+	  personnes qui communiquent dans une langue non native ont souvent 
+	  du mal à comprendre un discours rapide et / ou à voix basse et 
+	  peuvent parler plus fort qu'elles ne le feraient habituellement 
+	  lorsqu'elles communiquent dans leur langue maternelle. Si quelqu'un 
+	  a du mal à exprimer ses pensées, assurez-vous que ses idées sont 
+	  correctement exprimées, entendues et prises en considération.
           </li>
-          <li>Respect confidentiality and privacy. Sometimes, matters we discuss may
-          fall under various <a href=
-          "https://www.w3.org/2019/Process-20190301/#confidentiality-levels">confidentiality</a>
-          agreements and strict adherence to these agreements is expected. In
-          addition, certain pieces of information disclosed in a group setting
-          may be private in nature, or we may inadvertently learn confidential
-          information accidentally disclosed by other participants. Please
-          exercise good judgment, and make reasonable efforts to protect
-          privacy and confidentiality of all participants.
+          <li>Respectez la confidentialité et la vie privée. Parfois, les 
+	  questions dont nous discutons peuvent relever de divers accords 
+	  de a href=
+          "https://www.w3.org/2019/Process-20190301/#confidentiality-levels">confidentialité</a> et une stricte adhésion à ces accords est 
+	  attendue. De plus, certains éléments d'information divulgués en 
+	  groupe peuvent être de nature privée, ou nous pouvons par 
+	  inadvertance apprendre des informations confidentielles divulguées 
+	  accidentellement par d'autres participants. Veuillez faire preuve 
+	  de jugement et d'effort pour protéger la vie privée et la 
+	  confidentialité de tous les participants.
           </li>
         </ul>
       </section>
