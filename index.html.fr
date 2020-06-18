@@ -340,110 +340,82 @@
 	  qui dépose une plainte pour violation de ce code de conduite.
           </li>
         </ul>
-	      <section><h4>Safety versus Comfort</h4>
-        <p>This Code prioritizes the safety of individuals, particularly those in marginalized communities, over the comfort of others, for example in situations involving:</p>
+	<section><h4>Sécurité contre confort</h4>
+        <p>Ce code privilégie la sécurité des individus, en particulier ceux des communautés marginalisées, par rapport au confort des autres, par exemple dans les situations impliquant:</p>
         <ul>
-          <li>"Reverse" -isms, including "reverse racism," "reverse
-          <a>sexism</a>," and "cisphobia".
+          <li>Des « inverses », y compris le « racisme inversé », le « sexisme inversé » et la « cisphobie ».
           </li>
-          <li>Reasonable communication of boundaries, such as “leave me alone,”
-          “go away,” or “I’m not discussing this with you”.
+          <li>La communication raisonnable de limites, telles que « laissez-moi tranquille », « partez » ou « je ne veux pas en discuter avec vous ».
           </li>
-          <li>Communication in a tone you don’t find congenial.
+          <li>La communication sur un ton que vous ne trouvez pas agréable.
           </li>
-          <li>Criticisms of racist, sexist, <a>cissexist</a>, or otherwise
-          oppressive behavior or assumptions.
+          <li>Les critiques sur les comportements racistes, sexistes, cissexistes, ou autres préjugés oppressants.
           </li>
         </ul>
-		      </section>
+	</section>
       </section>
     </section>
-    <section id="Reporting">
+    <section id="Signaler">
       <h2>
-        Reporting Violations and Supporting the Code
+        Signaler les violations et soutenir le code
       </h2>
       <p>
-        If you are concerned about your immediate safety, contact <a href=
-        "https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers">local
-        law enforcement</a>. For a face to face event you may need to contact
-        venue staff for assistance contacting law enforcement.
+        Si vous êtes inquiet pour votre sécurité immédiate, contactez <a hreflang="en" href="https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers">les secours</a>. Lors d'un événement en présentiel, vous devrez sûrement contacter le personnel du site pour qu'ils contactent les forces de l'ordre.
       </p>
       <p>
-        In most instances if you have an issue with someone’s behavior along
-        the lines of this Code then please raise it; there are a few potential
-        people you could raise it to depending on your situation and your
-        safety.
+        Dans la plupart des cas, si vous rencontrez un problème avec le comportement de quelqu'un tel que décrit dans ce code, veuillez le signaler; il y a quelques personnes  auxquelles vous pourriez éventuellement faire appel en fonction de votre situation et de votre sécurité.
       </p>
       <p>
-        In most cases, issues are best resolved at the source. Accordingly,
-        raising the issue with the group chair or team contact of the relevant
-        group is usually the best first place to raise an issue. Group chairs
-        and team contacts also have more of the context which helps them
-        address the issue.
+        Dans la plupart des cas, les problèmes se règlent directement. Par conséquent, soulever le problème avec le président de groupe ou le contact de l'équipe du groupe concerné est généralement le meilleur moyen pour soulever un problème.
       </p>
       <p>
-	You are welcome to raise issues directly with the <a>Ombudspeople</a> as a <a href=
-        "mailto:ombuds@w3.org">group</a> or <a href="https://www.w3.org/Consortium/pwe/#Procedures">individually</a>. All
-        complaints will be taken seriously and will receive a response.
+	Vous êtes invité à soulever les problèmes directement aux <a>Médiateurs</a> au sein de leur <a href=
+        "mailto:ombuds@w3.org">groupe</a> ou <a hreflang="en" href="https://www.w3.org/Consortium/pwe/#Procedures">individuellement</a>. Toutes plaintes seront considérées et recevront réponse.
       </p>
       <p>
-        If you are responsible for a community within the W3C such as in the
-        role of a chair of a working group and you witness <a>harassment</a> or
-        any other behavior which goes against this code you are encouraged to
-        address the issue directly. If you need assistance, you might get
-        assistance from an Ombudsperson or senior W3C management.
+        Si vous êtes responsable d'une communauté au sein du W3C, par exemple en tant que président d'un groupe de travail et que vous êtes témoin de <a>harcèlement</a> ou de tout autre comportement qui va à l'encontre de ce code, nous vous encourageons à aborder le problème directement. Si vous avez besoin d'aide, vous pouvez obtenir l'aide d'un médiateur ou de la direction du W3C.
       </p>
       <p>
-        Chairs, Team Contacts, and Event Organizers should take such immediate
-        action as they deem necessary in order to stop <a href=
-        "#unacceptablebehavior">unacceptable behavior</a>. This action may take
-        many forms, but examples may include:
+        Les présidents, les contacts d'équipe et les organisateurs d'événements devraient prendre les mesures immédiates qu'ils jugent nécessaires afin de mettre fin à un <a href="#unacceptablebehavior">comportement inacceptable</a>. Cette action peut prendre plusieurs formes, par exemple :
       </p>
       <section>
         <h3>
-          Immediately
+          Immédiatement
         </h3>
         <ul>
-          <li>Pointing out if someone is violating the CEPC to give them the
-          chance to withdraw or edit their statement
+          <li>Faire remarquer lorsque quelqu'un viole le CEPC pour lui donner la possibilité de retirer ou de modifier sa déclaration
           </li>
-          <li>Reminding <a>participants</a> that meetings and work operate
-          under the CEPC
+          <li>Rappeler aux <a>participants</a> que les réunions et le travail s'effectuent selon le CEPC
           </li>
-          <li>Asking someone to leave a meeting or a conversation thread
+          <li>Demander à quelqu'un de quitter une réunion ou un fil de conversation
           </li>
         </ul>
       </section>
       <section>
         <h3>
-          After the Meeting
+          Après la réunion
         </h3>
         <ul>
-          <li>Following up with affected participants, possibly in separate
-          meetings
+          <li>Donner suite auprès des participants concernés, si possible lors de réunions distinctes
           </li>
-          <li>Reaching out to an Ombudsperson for assistance
+          <li>Faire appel aux Médiateurs pour obtenir de l'aide
           </li>
-          <li>Further information and resources for Chairs are available via
-          the Chairs Training program
+          <li>De plus amples informations et ressources pour les présidents de groupe sont disponibles via le programme de formation des présidents de groupe.
           </li>
         </ul>
         <p>
-          <strong>Note</strong> that the action must be directly related to
-          stopping harm, and must be proportionate. People affected may request
-          an Ombudsperson consider whether such actions are unacceptable
-          under the terms of this Code.
+          <strong>Notez</strong> que l'action doit être directement liée à l'arrêt du préjudice et doit être mesurée. Les personnes concernées peuvent demander à un médiateur d'examiner si de telles actions sont inacceptables aux termes de ce code.
         </p>
         <p>
-          You can read more in the <a href=
-          "https://www.w3.org/Consortium/pwe/#Procedures">PWETF Procedures</a>
-          document.
+          Le document <a hreflang="en" href=
+          "https://www.w3.org/Consortium/pwe/#Procedures">Procédures PWETF</a>
+          fournit plus de détail.
         </p>
       </section>
     </section>
-    <section id="mistake">
+    <section id="erreur">
       <h2>
-        If You've Done Something Improper
+        Si vous avez fait quelque chose d'inconvenant
       </h2>
       <p>
         As we engage in diverse communities we may accidentally cause offense,
@@ -451,242 +423,191 @@
         missing social cues.
       </p>
       <p>
-        If you realize (or are told) that you have offended someone then take
-        the appropriate steps:
+        Si vous réalisez (ou apprenez) que vous avez offensé quelqu'un, prenez les mesures appropriées :
       </p>
       <ol>
-        <li>Acknowledge that you've done something improper
+        <li>Reconnaissez que vous avez fait quelque chose d'inconvenant
         </li>
-        <li>Briefly apologize. Don't try to explain yourself or minimize the
-        issue
+        <li>Présentez de brèves excuses. N'essayez pas de vous expliquer ou de minimiser le problème
         </li>
-        <li>If possible, edit your message, restate your communication in a
-        better way or withdraw your statement. Publicly revising your statement
-        helps define the culture for others
+        <li>Si possible, corrigez votre message, reformulez votre communication en de meilleurs termes ou retirez votre déclaration. Changer publiquement ses déclaration permet de définir la culture pour les autres
         </li>
       </ol>
       <p>
-        Alice: “Yeah I used X and it was really crazy!” Eve: “Hey, could you
-        not use that word? What about ‘ridiculous’ instead?” Alice: “oh sorry,
-        sure.” -&gt; edits old message to say “Yeah I used X and it was really
-        confusing!”
+        Alice : « Ouais, j'ai utilisé X et c'était complètement dingue ! » Eve : « Hé, tu pourrais ne pas utiliser ce mot ? Qu'en est-il « ridicule » à la place? » Alice : « oh désolée, bien sûr » -> modifie l'ancien message pour dire « Ouais, j'ai utilisé X et c'était vraiment déroutant ! »
       </p>
       <p>
-        This will allow conversation to quickly continue without any need of
-        further action or escalating the situation.
+        Cela permettra à la conversation de se poursuivre rapidement sans qu'il soit nécessaire de prendre d'autres mesures ou d'aggraver la situation.
       </p>
       <p>
-        If you don't understand what you did wrong, assume that the hurt party
-        has good cause and accept it. We cannot know everyone's background and
-        should do our best to avoid harm. You are welcome to discuss it with a
-        W3C <a href="https://www.w3.org/Consortium/pwe/#Procedures">ombudsperson</a> later.
+        Si vous ne comprenez pas ce que vous avez fait de mal, supposez que la personne blessée a de bonnes raisons, et acceptez-le. On ne peut pas connaître les antécédents de tout le monde et nous devons faire de notre mieux pour éviter de nuire. Vous pouvez en discuter plus tard avec un <a hreflang=en" href="https://www.w3.org/Consortium/pwe/#Procedures">médiateur</a> du W3C.
       </p>
     </section>
-    <section id="glossary">
+    <section id="glossaire">
       <h2>
-        Glossary
+        Glossaire
       </h2>
       <dl data-sort="">
         <dt>
-          <dfn data-lt="Acceptable|accepted">Acceptable Behavior</dfn>
+          <dfn data-lt="Acceptable|accepté">Comportement Acceptable</dfn>
         </dt>
         <dd>
           <p>
-            Within the W3C, this is behavior which abides by this Code of
-            Ethics and Professional Conduct.
+            Au sein du W3C, il s'agit d'un comportement conforme à ce Code d'Éthique et de Conduite Professionnelle.
           </p>
         </dd>
         <dt>
-          <dfn data-lt="bully|bullying">Workplace Bullying</dfn>
+          <dfn data-lt="tourmenteur|tourmentrice|indimidation">L'intimidation au travail</dfn>
         </dt>
         <dd>
           <p>
-            A tendency of individuals or groups to use persistent aggressive
-            or unreasonable behavior (e.g. verbal or written abuse, offensive
-            conduct or any interference which undermines or impedes work)
-            against a co-worker or any professional relations.
+            Une tendance d'individus ou de groupes à utiliser un comportement agressif ou déraisonnable persistant (par exemple abus verbal ou écrit, conduite offensante ou toute interférence qui sape ou gêne le travail) contre un collègue ou toute relation professionnelle.
           </p>
         </dd>
         <dt>
-          <dfn data-lt="cisgender|cis person|cis people" data-lt-nodefault=
-          "">Cisgender/cis person</dfn>
-        </dt>
+          <dfn data-lt="cisgenre|personne cis|personnes cis" data-lt-nodefault=
+          "">Cisgenre / personne cis</dfn>
+	</dt>
         <dd>
           <p>
-            A person whose <a>gender identity</a> matches the one they were
-            assigned at birth.
+            Une personne dont <a>l'identité de genre</a> correspond à celle qui lui a été attribuée à la naissance.
           </p>
         </dd>
         <dt>
-          <dfn data-lt="cissexist">Cissexism</dfn>
+          <dfn data-lt="cissexiste">Cissexisme</dfn>
         </dt>
         <dd>
           <p>
-            The belief or assumption that <a>cis people</a>'s gender
-            identities, expressions, and embodiments are more natural and
-            legitimate than those of trans people. The term is related to
-            <a>transphobia</a>.
+            La croyance ou l'hypothèse que les identités de genre, les expressions et les incarnations des <a>personnes cis</a> sont plus naturelles et légitimes que celles des personnes trans. Le terme est lié à la <a>transphobie</a>.
           </p>
         </dd>
         <dt>
-          <dfn>Consent</dfn>
+          <dfn>Consentement</dfn>
         </dt>
         <dd>
           <p>
-            <a>Consent</a> occurs when one person voluntarily agrees to the
-            proposal or desires of another. It is a term of common speech, with
-            specific definitions as used in such fields as the law, medicine,
-            research, and sexual relationships. <cite><a href=
+            Le <a>consentement</a> naît de l'accord volontaire d'une personne à la proposition ou les désirs d'une autre. Il s'agit d'un terme de langage courant, avec des définitions spécifiques utilisées dans des domaines tels que le droit, la médecine, la recherche et les relations sexuelles. <cite><a hreflang="en" href=
             "https://en.wikipedia.org/wiki/Consent">https://en.wikipedia.org/wiki/Consent</a></cite>
           </p>
         </dd>
         <dt>
-          <dfn>Deadnaming</dfn>
+          </li>
+          <dfn>Morinommage</dfn>
         </dt>
         <dd>
           <p>
-            is using someone's name after they have changed it. Often a
-            person's name is not their "legal" name, whatever that may mean.
+            Il s'agit de continuer d'utiliser le nom de quelqu'un l'ayant changé. Souvent le nom d'une personne n'est pas leur nom « légal », quoi que cela puisse signifier.
           </p>
           <p>
-            If someone asks you to use a name for them you should use it. This
-            includes:
+            Si quelqu'un vous demande de l'appeler par un certain nom, vous devez le faire. Y compris :
           </p>
           <ul>
-            <li>A trans person, who has changed their name when transitioning
+            <li>Une personne trans ayant changé de nom
             </li>
-            <li>Someone who has changed their name through marriage
+            <li>Quelqu'un ayant changé de nom par mariage
             </li>
-            <li>Someone who has changed their name for any other reason
+            <li>Quelqu'un ayant changé de nom pour toute autre raison
             </li>
           </ul>
         </dd>
         <dt>
-          <dfn data-lt="demeaning|demean">Demeaning behavior</dfn>
+          <dfn data-lt="avilissant|rabaisser">Comportement dégradant</dfn>
         </dt>
         <dd>
           <p>
-            Acting in a way that reduces another person's dignity, sense of
-            self-worth, or respect within the community.
+            Se comporter d'une manière qui réduit la dignité, l'estime de soi ou le respect d'une autre personne au sein de la communauté.
           </p>
         </dd>
         <dt>
-          <dfn data-lt="discriminate">Discrimination</dfn>
+          <dfn data-lt="discriminer">Discrimination</dfn>
         </dt>
         <dd>
           <p>
-            The prejudicial treatment of an individual based on criteria
-            such as: physical appearance, race, ethnic origin, genetic
-            differences, national or social origin, name, religion, gender,
-            sexual orientation, family or health situation, pregnancy,
-            disability, age, education, wealth, domicile, political view,
-            morals, employment, or union activity.
+            Le traitement préjudiciable d'un individu en fonction de critères tels que: l'apparence physique, la race, l'origine ethnique, les différences génétiques, l'origine nationale ou sociale, le nom, la religion, le sexe, l'orientation sexuelle, la situation familiale ou liée à la santé, la grossesse, le handicap, l'âge, l'éducation, la richesse, le domicile, les vues politiques, la morale, l'emploi ou l'activité syndicale.
           </p>
         </dd>
         <dt>
-          <dfn>Diversity</dfn>
+          <dfn>Diversité</dfn>
         </dt>
         <dd>
           <p>
-            Diversity for the purposes of diversity and inclusion, is any
-            dimension that can be used to differentiate groups and people from
-            one another. With a focus on age, gender, ethnicity, religion,
-            disability, sexual orientation, education, and national origin.
+            La diversité dans le cadre de la diversité et de l'inclusion, est toute dimension qui peut être utilisée pour différencier les groupes et les gens les uns des autres. En mettant l'accent sur l'âge, le sexe, l'origine ethnique, la religion, le handicap, l'orientation sexuelle, l'éducation et l'origine nationale.
           </p>
         </dd>
         <dt>
-          <dfn>Gender Identity</dfn>
+          <dfn>Identité de genre</dfn>
         </dt>
         <dd>
           <p>
-            Gender identity is the personal sense of one's own gender. Gender
-            identity can correlate with assigned sex at birth or can differ
-            from it. <cite><a href=
-            "https://en.wikipedia.org/wiki/Gender_identity">Wikipedia</a></cite>
+            L'identité de genre est le sens personnel de son propre genre. L'identité sexuelle peut être en corrélation avec le sexe attribué à la naissance ou peut en différer. <cite><a href="https://fr.wikipedia.org/wiki/Identit%C3%A9_de_genre">Wikipedia</a></cite>
           </p>
         </dd>
         <dt>
-          <dfn>Gender Expression</dfn>
+          <dfn>Expression de genre</dfn>
         </dt>
         <dd>
           <p>
-            Gender expression is a person's behavior, mannerisms, interests,
-            and appearance that are associated with gender in a particular
-            cultural context. <cite><a href=
-            "https://en.wikipedia.org/wiki/Gender_expression">Wikipedia</a></cite>
+            L'expression de genre est le comportement, les manières, les intérêts et l'apparence d'une personne qui sont associés au genre dans un contexte culturel particulier.  <cite><a hreflang="en" href="https://en.wikipedia.org/wiki/Gender_expression">Wikipedia</a></cite>
           </p>
         </dd>
         <dt>
-          <dfn>Inclusivity</dfn>
+          <dfn>Inclusivité</dfn>
         </dt>
         <dd>
           <p>
-            The practice or policy of including people who might otherwise
-            be excluded or marginalized.
+            La pratique ou la politique d'inclure les personnes qui pourraient autrement être exclues ou marginalisées.
           </p>
         </dd>
         <dt>
-          <dfn data-lt="insulting|insult">Insulting behavior</dfn>
+          <dfn data-lt="insulte|insulte">Comportement insultant</dfn>
         </dt>
         <dd>
           <p>
-            Treating another person with scorn or disrespect.
+            Traiter une autre personne avec mépris ou manque de respect.
           </p>
         </dd>
         <dt>
-          <dfn data-lt="harass|harassing">Harassment</dfn>
+          <dfn data-lt="harceler|harcèlement">Harcèlement</dfn>
         </dt>
         <dd>
           <p>
-            Any conduct, verbal or physical, that has the intent or effect
-            of interfering with an individual, or that creates an intimidating,
-            hostile, or offensive environment.
+            Tout comportement, verbal ou physique, qui a l'intention ou pour effet de porter atteinte à un individu, ou qui crée un environnement intimidant, hostile ou offensant.
           </p>
         </dd>
         <dt>
-          <dfn>Marginalized Communities</dfn>
+          <dfn>Communautés marginalisées</dfn>
         </dt>
         <dd>
           <p>
-            Communities which are often overlooked, ignored or denigrated
-            to the detriment of the members of that community. People may often
-            be part of multiple communities such as being queer and disabled.
+            Les communautés qui sont souvent négligées, ignorées ou dénigrées au détriment des membres de cette communauté. Les gens peuvent souvent faire partie de plusieurs communautés, comme être homosexuel et handicapé.
           </p>
         </dd>
         <dt>
-          <dfn>Mental Health</dfn>
+          <dfn>Santé mentale</dfn>
         </dt>
         <dd>
           <p>
-            A person’s condition with regard to their psychological and
-            emotional well-being.
+            L'état d'une personne en ce qui concerne son bien-être psychologique et émotionnel.
           </p>
         </dd>
         <dt>
-          <dfn>Microagression</dfn>
+          <dfn>Micro-agression</dfn>
         </dt>
         <dd>
           <p>
-            Microaggression is a term used for brief and commonplace daily
-            verbal, behavioral, or environmental indignities, whether
-            intentional or unintentional, that communicate hostile, derogatory,
-            or negative prejudicial slights and insults toward any group,
-            particularly culturally marginalized group. <cite><a href=
-            "https://en.wikipedia.org/wiki/Microaggression">Wikipedia</a></cite>
+	    La micro-agression est un terme utilisé pour les indignités verbales, comportementales ou environnementales courantes, qu'elles soient intentionnelles ou non, qui communiquent des insultes ou affronts préjudiciables hostiles, désobligeantes ou négatifs envers tout groupe, en particulier les groupes culturellement marginalisés. <cite><a href=
+            "https://fr.wikipedia.org/wiki/Micro-agression">Wikipedia</a></cite>
           </p>
         </dd>
         <dt>
-          <dfn>Misgendering</dfn>
+          <dfn>Mégenrer</dfn>
         </dt>
         <dd>
           <p>
-            Misgendering is addressing someone using gendered words to imply or
-            state they are a different gender than the one they have asked
-            to be used.
+           Cela consiste à s'adresser à quelqu'un en utilisant des mots sexués ou impliquer qu'elle est d'un sexe différent de celui qu'elle a demandé d'utiliser.
           </p>
           <p>
-            Examples include refusing to use their correct pronouns such as
-            he/him, she/her, they/them or others.
+            Les exemples incluent le refus d'utiliser leurs pronoms corrects tels que il/lui, elle/lui, eux/leur(s), ou autres. 
           </p>
         </dd>
         <dt>
@@ -694,19 +615,15 @@
         </dt>
         <dd>
           <p>
-            A type of brain, in terms of how a person interprets and responds
-            to social cues.
+            Un type de cerveau, en termes de la façon dont une personne interprète et réagit aux signaux sociaux.
           </p>
         </dd>
         <dt>
-          <dfn>Ombudsperson</dfn>
+          <dfn>Médiateur</dfn>
         </dt>
         <dd>
           <p>
-            One who assists individuals and groups in the resolution of
-            conflicts or concerns. They are a designated neutral who is
-            appointed or employed by the W3C to facilitate the informal
-            resolution of concerns of <a>participants</a> within the W3C.
+            Celui qui assiste des individus et des groupes dans la résolution de conflits ou d'inquiétudes. Il s'agit d'un neutre désigné qui est nommé ou employé par le W3C pour faciliter la résolution informelle des inquiétudes des <a>participants</a> au sein du W3C.
           </p>
         </dd>
         <dt>
@@ -714,105 +631,89 @@
         </dt>
         <dd>
           <p>
-            Includes the following persons:
+            Comprend les personnes suivantes :
           </p>
         </dd>
         <dd>
           <ul>
-            <li>W3C Team (employees, contractors,
-	      <a href=
+            <li>Équipe W3C (employés, prestataire,
+	      <a hreflang="en" href=
 	      "https://www.w3.org/Consortium/Process/#Team">
 	      Fellows</a>)
             </li>
-            <li>W3C group participants (member representatives and invited experts)
+            <li>Participants de groupes W3C (représentants de Membres et experts invité)
             </li>
-            <li>Advisory Committee Representatives (and their guests)
+            <li>Représentants du comité consultatif (et leurs invités)
             </li>
-            <li>Anyone from the Public partaking in the W3C work environment
-            (e.g. commenting on our specs, emailing us, attending our
-            conferences or functions, etc.)
+            <li>Toute personne du public participant à l'environnement de travail du W3C (par exemple, commentant nos spécifications, nous envoyant un courrier électronique, assistant à nos conférences ou évenements, etc.)
             </li>
           </ul>
         </dd>
         <dt>
-          <dfn>Prejudice</dfn>
+          <dfn>Préjugés</dfn>
         </dt>
         <dd>
           <p>
-            Prejudice refers to a set of discriminatory or derogatory attitudes based on assumptions deriving from perceptions about such things as race, culture, religion, skin color, age, sexual orientation, gender, disability, or gender expression.
+            Les préjugés se réfèrent à un ensemble d'attitudes discriminatoires ou désobligeantes basées sur des hypothèses dérivées de perceptions sur des choses telles que la race, la culture, la religion, la couleur de la peau, l'âge, l'orientation sexuelle, le sexe, le handicap ou l'expression de genre.
           </p>
         </dd>
         <dt>
-          <dfn>Racism</dfn>
+          <dfn>Racisme</dfn>
         </dt>
         <dd>
           <p>
-            Racism is where racial prejudices work to enhance existing power
-            imbalances within communities to further marginalize groups based
-            upon race.
+            Le racisme rassemble les préjugés raciaux contribuant à renforcer les déséquilibres de pouvoir existants au sein des communautés afin de marginaliser davantage les groupes fondés sur la race.
           </p>
         </dd>
                 <dt>
-          <dfn>Sexism</dfn>
+          <dfn>Sexisme</dfn>
         </dt>
         <dd>
           <p>
-            Prejudice or <a>discrimination</a> based on sex or perceived sex.
-            Usually against women or non-binary people.
+            Préjugé ou <a>discrimination</a> sur la base du sexe ou du sexe perçu. Habituellement à l'encontre les femmes ou les personnes non binaires.
           </p>
           <p>
-            Sexism is where these prejudices work to enhance existing power
-            imbalances within communities to further marginalize groups.
+            Le sexisme rassemble les préjugés contribuent à renforcer les déséquilibres de pouvoir existants au sein des communautés afin de marginaliser davantage les groupes.
           </p>
         </dd>
 
-        <dt><dfn data-lt="sexually harass">Sexual harassment</dfn></dt>
-  <dd><p>Includes requests for sexual favors, and other verbal or physical
-        conduct of a sexual nature, where:</p>
+        <dt><dfn data-lt="harcèlement sexuel">Harcèlement sexuel</dfn></dt>
+ 	<dd>
+	  <p>Cela comprend les demandes de faveurs sexuelles et toute autre conduite verbale ou physique de nature sexuelle, où :/p>
         <ul>
-          <li>submission to such conduct is made either explicitly or implicitly
-            a term or condition of an individual's employment</li>
-          <li>submission to or rejection of such conduct by an individual is used
-            as a basis for employment decisions affecting the individual</li>
-          <li>such conduct has the purpose or effect of unreasonably interfering
-            with an individual's work performance or creating an intimidating
-            hostile or offensive working environment</li>
+          <li>la soumission à un telle conduite est explicitement ou implicitement un terme ou une condition de l'emploi d'un individu</li>
+          <li>la soumission ou le rejet d'une telle conduite par un individu est utilisé comme base pour les décisions en matière d'emploi affectant l'individu</li>
+          <li>une telle conduite a pour objet ou pour effet d'interférer de manière déraisonnable avec la productivité au travail d'un individu ou de créer un environnement de travail intimidant, hostile ou offensant</li>
         </ul>
       </dd>
     </dl>
 
         <dt>
-          <dfn>Sexual Orientation</dfn>
+          <dfn>Orientation sexuelle</dfn>
         </dt>
         <dd>
           <p>
-            Sexual Orientation relates to the gender(s) a person may be
-            attracted to in relation to their own gender.
+            L'orientation sexuelle se rapporte au(x) sexe(s) au(x)quel(s) une personne peut être attirée par rapport à son propre sexe.
           </p>
         </dd>
-          <dfn>Socio-economic status</dfn>
+          <dfn>Statut socio-économique</dfn>
         </dt>
         <dd>
           <p>
-            Socio-economic status is the combined effects relating to someone’s
-            wealth, social position/class and property ownership.
-          </p>
-        </dd>
-        <dt>
-          <dfn>Transphobia</dfn>
-        </dt>
-        <dd>
-          <p>
-            Transphobia encompasses a range of negative attitudes, feelings, or
-            actions toward transgender or transsexual people, or toward
-            transsexuality. Transphobia can include fear, aversion, hatred,
-            violence, anger, or discomfort felt or expressed toward people who
-            do not conform to society's gender expectation.
+            Le statut socio-économique est l’effet combiné de la richesse, de la position / classe sociale et de la propriété d’une personne.
           </p>
         </dd>
         <dt>
-<dt><dfn>Unwelcome sexual advance</dfn></dt>
-      <dd><p>includes visual displays of degrading sexual images, sexually suggestive conduct, offensive remarks of a sexual nature, requests for sexual favors, unwelcome physical contact, and sexual assault.</p></dd>
+          <dfn>Transphobie</dfn>
+        </dt>
+        <dd>
+          <p>
+           La transphobie englobe un éventail d'attitudes, de sentiments ou d'actions négatives envers les personnes transgenres ou transsexuelles, ou envers la transsexualité. La transphobie peut inclure la peur, l'aversion, la haine, la violence, la colère ou l'inconfort ressenti ou exprimé envers des personnes qui ne sont pas conformes aux attentes de la société en matière de genre.
+          </p>
+        </dd>
+        <dt>
+<dt><dfn>Avance sexuelle importune</dfn></dt>
+      <dd><p>Cela comprend l'affichage visuel d'images sexuelles dégradantes, toute conduite sexuellement suggestive, toute remarque offensante de nature sexuelle, toute demande de faveurs sexuelles, de contacts physiques indésirables et d'agressions sexuelles.</p></dd>
     </dl>
     </section>
     <section id="Attribution">
