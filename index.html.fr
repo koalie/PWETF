@@ -665,7 +665,7 @@
             Le racisme rassemble les préjugés raciaux contribuant à renforcer les déséquilibres de pouvoir existants au sein des communautés afin de marginaliser davantage les groupes fondés sur la race.
           </p>
         </dd>
-                <dt>
+        <dt>
           <dfn>Sexisme</dfn>
         </dt>
         <dd>
@@ -677,7 +677,9 @@
           </p>
         </dd>
 
-        <dt><dfn data-lt="harcèlement sexuel">Harcèlement sexuel</dfn></dt>
+        <dt>
+	  <dfn data-lt="harcèlement sexuel">Harcèlement sexuel</dfn>
+	</dt>
  	<dd>
 	  <p>Cela comprend les demandes de faveurs sexuelles et toute autre conduite verbale ou physique de nature sexuelle, où :/p>
         <ul>
@@ -696,6 +698,7 @@
             L'orientation sexuelle se rapporte au(x) sexe(s) au(x)quel(s) une personne peut être attirée par rapport à son propre sexe.
           </p>
         </dd>
+	<dt>
           <dfn>Statut socio-économique</dfn>
         </dt>
         <dd>
@@ -712,7 +715,8 @@
           </p>
         </dd>
         <dt>
-<dt><dfn>Avance sexuelle importune</dfn></dt>
+          <dfn>Avance sexuelle importune</dfn>
+	</dt>
       <dd><p>Cela comprend l'affichage visuel d'images sexuelles dégradantes, toute conduite sexuellement suggestive, toute remarque offensante de nature sexuelle, toute demande de faveurs sexuelles, de contacts physiques indésirables et d'agressions sexuelles.</p></dd>
     </dl>
     </section>
