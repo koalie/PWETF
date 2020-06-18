@@ -721,19 +721,18 @@
         Attribution
       </h2>
       <p>
-        Large portions of the text for this policy were taken from the
-        following resources:
+        Une grande partie du texte de ce code provient des ressources suivantes :
       </p>
       <ul>
         <li>
-          <a href=
-          "https://www.w3.org/Consortium/cepc/cepc-20141022/Overview.html">W3C
-          Code of Ethics and Professional Conduct 2014</a>
+          <a hreflang="en" href=
+          "https://www.w3.org/Consortium/cepc/cepc-20141022/Overview.html">
+          Code d'Éthique et de Conduite Professionnelle au W3C, 2014</a>
         </li>
 	      <li>
-          <a href=
+          <a hreflang="en" href=
           "https://geekfeminism.wikia.org/wiki/Community_anti-harassment/Policy">
-          Geek Feminism Community anti-harassment/Policy</a>
+          anti-harcèlement au sein de la Communauté de féminisme Geek</a>
         </li>
 
       </ul>
