@@ -122,11 +122,11 @@
 	  y compris dans des situations de haute pression et d'urgence.
         </p>
         <ul>
-          <li>Appréciez et adaptez-vous nos similitudes et différences. Nous
+          <li>Appréciez et adaptez-vous à nos similitudes et différences. Nous
 	  venons de nombreuses cultures et contextes, modes de vie, et
 	  standards de comportement. Les différences culturelles peuvent 
 	  aller des pratiques religieuses officielles aux habitudes personnelles,
-	  en passant par l'habillement. Soyez respectueux Soyez respectueux 
+	  en passant par l'habillement. Soyez respectueux 
 	  des personnes ayant des pratiques, des attitudes et des croyances 
 	  différentes.
           Pour nous aider à atteindre et à maintenir ces normes élevées, chaque 
@@ -157,11 +157,11 @@
           <li>N'acceptez ni n'adoptez de comportement abusif sous quelque 
 	  forme, que ce soit verbal, physique, sexuel ou implicite.
 	  </li>
-          <li>Soyez honnête. Soyez honnête, sincère, franc et, à moins que 
+          <li>Soyez honnête. Dites la vérité, soyez sincère, franc et, à moins que 
 	  vos devoirs professionnels ne nécessitent la confidentialité ou 
-	  une discrétion particulière, sincère, simple et franc.</li>
+	  une discrétion particulière, simple et franc.</li>
           <li>Soyez inclusif et faites la promotion de la <a>diversité</a>. 
-	  Recherez des perspectives diverses. La diversité de points de vue 
+	  Recherchez des perspectives diverses. La diversité de points de vue 
 	  et de personnes stimule l'innovation, même si elle n'est pas 
 	  toujours confortable. Encouragez toutes les voix. Aidez de 
 	  nouvelles perspectives à se faire entendre et écoutez activement.
@@ -185,7 +185,7 @@
 	  pratiques discriminatoires.
           </li>
           <li>Pensez aux besoins des autres de leur propre point de vue. 
-	  Utilisez les noms et titres préférés (y cmpris les pronoms), 
+	  Utilisez les noms et titres préférés (y compris les pronoms), 
 	  ainsi qu'un ton de voix approprié. Ainsi, soyez formel et 
 	  conservateur dans ce que vous faites et libéral dans ce que 
 	  vous acceptez des autres et reconnaissez les contributions de 
@@ -208,13 +208,13 @@
           </li>
           <li>Respectez la confidentialité et la vie privée. Parfois, les 
 	  questions dont nous discutons peuvent relever de divers accords 
-	  de a href=
+	  de <a href=
           "https://www.w3.org/2019/Process-20190301/#confidentiality-levels">confidentialité</a> et une stricte adhésion à ces accords est 
-	  attendue. De plus, certains éléments d'information divulgués en 
+	  attendue. De plus, certainess informations divulgueés en 
 	  groupe peuvent être de nature privée, ou nous pouvons par 
 	  inadvertance apprendre des informations confidentielles divulguées 
 	  accidentellement par d'autres participants. Veuillez faire preuve 
-	  de jugement et d'effort pour protéger la vie privée et la 
+	  de discernement et tâchez de protéger la vie privée et la 
 	  confidentialité de tous les participants.
           </li>
         </ul>
@@ -262,7 +262,7 @@
           </li>
           <li>Menaces de violence.
           </li>
-          <li>Incitation à la violence envers quiconque, y compris encourage 
+          <li>Incitation à la violence envers quiconque, y compris encourager 
 	  quelqu'un à se suicider ou à s'automutiler.
           </li>
           <li>Intimidation délibérée.
@@ -270,14 +270,14 @@
           <li>Traquer ou suivre physiquement ou envahir l'espace personnel de 
 	  quelqu'un après une demande d'arrêt.</li>
 	  <li>Exposer autrui à une maladie contagieuse.</li>
-	  <li>Photographie ou enregistrements, y compris including d'activité en 
+	  <li>Harcèlement photographique ou enregistrements, y compris d'activité en 
 	  ligne à des fins de <a>harcèlement</a>.
           </li>
           <li>Perturbation durable de la discussion.
           </li>
           <li>Attention sexuelle importune.
           </li>
-          <li>Dispositions de contact social inapproprié, tel que demander / adopter
+          <li>Répétition de contacts sociaux inappropriés, tel que demander / prendre pour acquis
 	  des niveaux inappropriés d'intimité avec autrui.
           </li>
           <li>Poursuite de communications individuelles après des demandes 
@@ -289,7 +289,7 @@
           <li>Publication de communications privées non harcelantes sans le 
 	  <a>consentement</a> des parties concernées.
           </li>
-          <li>Utilisation d'un langage codé (appelé aussi « sifflets pour chiens ») 
+          <li>Utilisation d'un langage codé (“dog whistles” en anglais)
 	  utilisé pour rallier le soutien aux groupes haineux ou pour intimider 
 	  les groupes vulnérables.
           </li>
@@ -322,11 +322,11 @@
               <li>Systématiquement interrompre ou parler en même temps que 
 	      quelqu'un d'autre.
               </li>
-              <li>Feindre la surprise face au manque de connaissances ou de conscience 
+              <li>Feindre la surprise face au manque de connaissances 
 	      de quelqu'un sur un sujet.
               </li>
               <li>Utiliser un langage à caractère racial pour décrire une personne 
-	      ou une chose (comme « voyou » ou « ghetto »).
+	      ou une chose (comme « racaille » ou « ghetto »).
               </li>
               <li>Faire référence à un individu d'une manière qui <a>avilit</a> ou 
 	      conteste la validité de son identité raciale. 
