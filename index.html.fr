@@ -210,7 +210,7 @@
 	  questions dont nous discutons peuvent relever de divers accords 
 	  de <a href=
           "https://www.w3.org/2019/Process-20190301/#confidentiality-levels">confidentialité</a> et une stricte adhésion à ces accords est 
-	  attendue. De plus, certainess informations divulgueés en 
+	  attendue. De plus, certainess informations divulguées en 
 	  groupe peuvent être de nature privée, ou nous pouvons par 
 	  inadvertance apprendre des informations confidentielles divulguées 
 	  accidentellement par d'autres participants. Veuillez faire preuve 
