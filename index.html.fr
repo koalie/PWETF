@@ -241,7 +241,7 @@
 	  l'<a>expression de genre</a>, l'orientation sexuelle, le handicap (visible et 
 	  invisible), la santé mentale, le <a>neurotype</a>, l'apparence physique, 
 	  le corps, l'âge, la race, le statut socio-économique, l'origine 
-	  ethnique, la nationalité, la langue ou la religion.
+	  ethnique, la caste, la nationalité, la langue ou la religion.
           </li>
           <li>Les commentaires indésirables concernant les choix et les pratiques 
 	  de vie d'une personne, y compris ceux liés à l'alimentation, à la santé, 
@@ -360,7 +360,7 @@
         Signaler les violations et soutenir le code
       </h2>
       <p>
-        Si vous êtes inquiet pour votre sécurité immédiate, contactez <a hreflang="en" href="https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers">les secours</a>. Lors d'un événement en présentiel, vous devrez sûrement contacter le personnel du site pour qu'ils contactent les forces de l'ordre.
+        Si vous êtes inquiet pour votre sécurité immédiate, contactez <a hreflang="en" href="https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers">les secours</a>. Lors d'un événement en présentiel, vous devrez sûrement contacter le personnel du site pour qu'ils contactent les secours.
       </p>
       <p>
         Dans la plupart des cas, si vous rencontrez un problème avec le comportement de quelqu'un tel que décrit dans ce code, veuillez le signaler; il y a quelques personnes  auxquelles vous pourriez éventuellement faire appel en fonction de votre situation et de votre sécurité.
